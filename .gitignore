@@ -1,0 +1,5 @@
+# cached bytecode
+__pycache__
+
+# database
+*.db
